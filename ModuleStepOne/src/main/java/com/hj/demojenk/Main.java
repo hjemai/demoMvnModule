@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("Difference "+c.difference());
 		System.out.println("Multiplication "+c.multi());
 		System.out.println("Division "+ c.div());
+		System.out.println("ok finish calculating ");
 
 	}
 
