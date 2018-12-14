@@ -6,4 +6,14 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>ModuleStepOne</artifactId>
+  
+  <dependencies>
+  <dependency>
+	   <groupId>com.hj</groupId>
+	  <artifactId>ModuleStepTwo</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+  </dependency>
+  
+  
+  </dependencies>
 </project>
